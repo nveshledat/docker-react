@@ -18,9 +18,9 @@ deploy:
   on:
     branch: master
   access_key_id: $AWS_ACCESS_KEY
-  #access_key_id: AKIAZEMH2QXC7D7MJRGG
+  #access_key_id: ******
   secret_access_key: $AWS_SECRET_KEY
   #  secure: "$AWS_SECRET_KEY"
-  #secret_access_key:  Bab22p/72ga/aN8PZI63HO6r9EOep749uxJ4IyCh
+  #secret_access_key:  ******
 
 #http://dockerreact-env-1.eba-vynmuftp.us-east-2.elasticbeanstalk.com/
